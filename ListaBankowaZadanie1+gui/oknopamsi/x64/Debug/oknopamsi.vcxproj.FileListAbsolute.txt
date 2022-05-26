@@ -1,0 +1,4 @@
+C:\Users\DostawcaPizzy\source\repos\oknopamsi\oknopamsi\x64\Debug\oknopamsi.vcxproj.AssemblyReference.cache
+C:\Users\DostawcaPizzy\source\repos\oknopamsi\oknopamsi\x64\Debug\oknopamsi.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DostawcaPizzy\source\repos\oknopamsi\oknopamsi\x64\Debug\oknopamsi.MyForm.resources
+C:\Users\DostawcaPizzy\source\repos\oknopamsi\oknopamsi\x64\Debug\oknopamsi.vcxproj.GenerateResource.cache

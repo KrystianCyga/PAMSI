@@ -1,0 +1,5 @@
+C:/Users/DostawcaPizzy/source/repos/pamsi/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/DostawcaPizzy/source/repos/pamsi/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DostawcaPizzy/source/repos/pamsi/out/build/x64-debug/pamsi/CMakeFiles/pamsi.dir
+C:/Users/DostawcaPizzy/source/repos/pamsi/out/build/x64-debug/pamsi/CMakeFiles/edit_cache.dir
+C:/Users/DostawcaPizzy/source/repos/pamsi/out/build/x64-debug/pamsi/CMakeFiles/rebuild_cache.dir

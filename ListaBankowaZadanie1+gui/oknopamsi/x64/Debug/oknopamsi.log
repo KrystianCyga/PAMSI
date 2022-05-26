@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\DostawcaPizzy\source\repos\oknopamsi\oknopamsi\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  oknopamsi.vcxproj -> C:\Users\DostawcaPizzy\source\repos\oknopamsi\x64\Debug\oknopamsi.exe
