@@ -1,0 +1,5 @@
+C:/Users/DostawcaPizzy/source/repos/Sortowanie/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/DostawcaPizzy/source/repos/Sortowanie/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DostawcaPizzy/source/repos/Sortowanie/out/build/x64-debug/Sortowanie/CMakeFiles/Sortowanie.dir
+C:/Users/DostawcaPizzy/source/repos/Sortowanie/out/build/x64-debug/Sortowanie/CMakeFiles/edit_cache.dir
+C:/Users/DostawcaPizzy/source/repos/Sortowanie/out/build/x64-debug/Sortowanie/CMakeFiles/rebuild_cache.dir
